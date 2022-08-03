@@ -3,7 +3,7 @@ import random
 user_wins = 0
 comp_wins = 0
 
-elements = ['rock', 'papers', 'scissors']
+elements = ['rock', 'paper', 'scissors']
 
 while True:
     # the computer selects one of the items from the element list
